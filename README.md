@@ -1,5 +1,5 @@
 <div >
-  <img src="https://raw.githubusercontent.com/aakashapoorv/aakashapoorv/main/assets/ryu.gif" width="100%">
+  <img src="https://raw.githubusercontent.com/aakashapoorv/aakashapoorv/main/assets/ryu_.gif" width="100%">
 
 
 ```
