@@ -1,6 +1,6 @@
 <div >
   <img src="https://raw.githubusercontent.com/aakashapoorv/aakashapoorv/main/assets/ryu_.gif" width="100%">
-
+</div>
 
 ```
         _..._
@@ -21,62 +21,87 @@
           `-._/._/
 ```
 
-</div>
 
-Install
+## Install
 
 ```bash
 curl https://raw.githubusercontent.com/aakashapoorv/aakashapoorv/main/aakash.sh | bash
 ```
 
-```bash
-==> Installing Aakash Apoorv: Full Stack Engineer | Head of Development | Research Engineer
-==> Pouring skills--10-years-experience.bottle.tar.gz
-🍺  Proficient in: Javascript, Typescript, Python
-🍺  Working knowledge of: Java, C#, Golang, C++
-🍺  Frameworks: React.js, Express.js, Next.js, Spring Boot, ASP.NET
-🍺  Databases: SQL, Postgres, DynamoDB, MongoDB, Pinecone
-🍺  Other Technologies: Serverless, Microservices, Micro-frontend, Docker, Kubernetes, Deep learning, LLM, AWS, WebGL, Unity
-
-==> Installing Work Experience: Vince AS | Head of Development
-==> Pouring vince-as--head-of-development.bottle.tar.gz
-🍺  NOV 2021 – July 2023 | Oslo, Norway
-🍺  Responsibilities: Hired and mentored the dev team, Supervised engineering of Enterprise SaaS product, Built and trained LLM models on Enterprise data, Used JS/TS, Python, Microservices, Micro-frontend
-
-==> Installing Work Experience: Omega 365 Solutions AS | Senior System Engineer
-==> Pouring omega-365--senior-system-engineer.bottle.tar.gz
-🍺  JAN 2020 – OCT 2021 | Oslo, Norway
-🍺  Built mega digital twin for the oil platforms, Used JS/TS, C#, WebGL, .Net Core, Unity, React
-
-==> Installing Work Experience: Delivery Hero | Engineering Manager
-==> Pouring delivery-hero--engineering-manager.bottle.tar.gz
-🍺  MAR 2019 – DEC 2019 | Singapore
-🍺  Hired and mentored the dev team, Architected high throughput microservices and micro-frontend, 1st Engineer in APAC helped to scale to 70 people, Used JS/TS, Golang, React, Serverless
-
-==> Installing Education: Master in Information Technology
-==> Pouring master-it--james-cook-university.bottle.tar.gz
-🍺  Computing & Networking | James Cook University, Australia, 2012
-
-==> Installing Education: Bachelor of Science | Computer Science
-==> Pouring bachelor-cs--mumbai-university.bottle.tar.gz
-🍺  Mumbai University, India, 2010
-
-==> Installing Open Source Contribution: Redux
-==> Pouring redux--optimized-object-check.bottle.tar.gz
-🍺  Recommended an optimized plain object check function, closed due to inter-realm isolation
-
-==> Installing Open Source Contribution: Mono
-==> Pouring mono--open-source-dotnet.bottle.tar.gz
-🍺  Contributed to the mono project, it’s an open-source implementation of .NET Framework
-
-==> Installing Open Source Contribution: FFWD | Xbox 360
-==> Pouring ffwd--max-magic-marker.bottle.tar.gz
-🍺  Framework was used to make Max & the Magic Marker, published by Electronic Arts and Microsoft Game Studios
-
-==> Running `cleanup Aakash Apoorv's CV`...
-Github: https://github.com/aakashapoorv
-Linkedin: https://www.linkedin.com/in/serverless
-
+```
+             _______________________________________________________________________________________________________
+            /                                                                                                        \
+           |    ________________________________________________________________________________________________   📡 |
+           |   |  💾                                                                                             |    |
+           |   |  ==> 🚀 Installing Aakash Apoorv: Full Stack Engineer | Head of Development | Research Engineer |    |
+           |   |  ==> 📦 Pouring skills--10-years-experience.bottle.tar.gz                                       |    |
+           |   |  🍺  Proficient in: Javascript, Typescript, Python                                              |    |
+           |   |  🍺  Working knowledge of: Java, C#, Golang, C++                                                |    |
+           |   |  🍺  Frameworks: React.js, Express.js, Next.js, Spring Boot, ASP.NET                            |    |
+           |   |  🍺  Databases: SQL, Postgres, DynamoDB, MongoDB, Pinecone                                      |    |
+           |   |  🍺  Other Technologies: Serverless, Microservices, Micro-frontend,                             |    |
+           |   |     ✨ Docker, Kubernetes, Deep learning, LLM, AWS, WebGL, Unity                                |    |
+           |   |                                                                                              🏢 |    |
+           |   |  ==> 🚀 Installing Work Experience: Vince AS | Head of Development                              |    | 
+           |   |  ==> 📦 Pouring vince-as--head-of-development.bottle.tar.gz                                     |    | 
+           |   |  🍺  NOV 2021 – July 2023 | Oslo, Norway                                                        |    | 
+           |   |  🍺  Responsibilities: Hired and mentored the dev team                                          |    | 
+           |   |  🍺  Supervised engineering of Enterprise SaaS product                                          |    | 
+           |   |  🍺  Built and trained LLM models on Enterprise data                                            |    | 
+           |   |  🍺  Used JS/TS, Python, Microservices, Micro-frontend                                          |    | 
+           |   |                                                                                              🏢 |    |
+           |   |  ==> 🚀 Installing Work Experience: Omega 365 Solutions AS | Senior System Engineer             |    | 
+           |   |  ==> 📦 Pouring omega-365--senior-system-engineer.bottle.tar.gz                                 |    | 
+           |   |  🍺  JAN 2020 – OCT 2021 | Oslo, Norway                                                         |    | 
+           |   |  🍺  Built mega digital twin for the oil platforms                                              |    | 
+           |   |  🍺  Used JS/TS, C#, WebGL, .Net Core, Unity, React                                             |    | 
+           |   |                                                                                              🏢 |    |
+           |   |  ==> 🚀 Installing Work Experience: Delivery Hero | Engineering Manager                         |    | 
+           |   |  ==> 📦 Pouring delivery-hero--engineering-manager.bottle.tar.gz                                |    | 
+           |   |  🍺  MAR 2019 – DEC 2019 | Singapore                                                            |    | 
+           |   |  🍺  Hired and mentored the dev team                                                            |    | 
+           |   |  🍺  Architected high throughput microservices and micro-frontend                               |    | 
+           |   |  🍺  1st Engineer in APAC helped to scale to 70 people                                          |    | 
+           |   |  🍺  Used JS/TS, Golang, React, Serverless                                                      |    | 
+           |   |                                                                                              🏢 |    |
+           |   |  ==> 🚀 Installing Education: Master in Information Technology                                  |    | 
+           |   |  ==> 📦 Pouring master-it--james-cook-university.bottle.tar.gz                                  |    | 
+           |   |  🍺  Computing & Networking | James Cook University, Australia, 2012                            |    | 
+           |   |                                                                                              🏢 |    |
+           |   |  ==> 🚀 Installing Education: Bachelor of Science | Computer Science                            |    | 
+           |   |  ==> 📦 Pouring bachelor-cs--mumbai-university.bottle.tar.gz                                    |    | 
+           |   |  🍺  Mumbai University, India, 2010                                                             |    | 
+           |   |                                                                                              🏢 |    |
+           |   |  ==> 🚀 Installing Open Source Contribution: Redux                                              |    | 
+           |   |  ==> 📦 Pouring redux--optimized-object-check.bottle.tar.gz                                     |    | 
+           |   |  🍺  Recommended an optimized plain object check function                                       |    | 
+           |   |  🍺  closed due to inter-realm isolation                                                        |    | 
+           |   |                                                                                              🏢 |    |
+           |   |  ==> 🚀 Installing Open Source Contribution: Mono                                               |    | 
+           |   |  ==> 📦 Pouring mono--open-source-dotnet.bottle.tar.gz                                          |    | 
+           |   |  🍺  Contributed to the mono project                                                            |    | 
+           |   |  🍺  it’s an open-source implementation of .NET Framework                                       |    | 
+           |   |                                                                                              🏢 |    |
+           |   |  ==> 🚀 Installing Open Source Contribution: FFWD | Xbox 360                                    |    | 
+           |   |  ==> 📦 Pouring ffwd--max-magic-marker.bottle.tar.gz                                            |    | 
+           |   |  🍺  Framework was used to make Max & the Magic Marker                                          |    | 
+           |   |  🍺  published by Electronic Arts and Microsoft Game Studios                                    |    | 
+           |   |                                                                                              🏢 |    |
+           |   |  ==> 🚀 Running `cleanup Aakash Apoorv's CV`...                                                 |    | 
+           |   |  📦 Github: https://github.com/aakashapoorv                                                     |    | 
+           |   |  📦 Linkedin: https://www.linkedin.com/in/serverless                                            |    | 
+           |   |_____________________________________________________________________________________________ 📼 |    |
+           |                                        Radio Shack TRS-80                                             🎹 |
+            \________________________________________________________________________________________________________/
+                                           \___________________________________/
+                                        ___________________________________________
+                                     _-'    .-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.  --- `-_
+                                  _-'.-.-. .---.-.-.-.-.-.-.-.-.-.-.-.-.-.-.--.  .-.-.`-_
+                               _-'.-.-.-. .---.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-`__`. .-.-.-.`-_
+                            _-'.-.-.-.-. .-----.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-----. .-.-.-.-.`-_
+                         _-'.-.-.-.-.-. .---.-. .-------------------------. .-.---. .---.-.-.-.`-_
+                        :-------------------------------------------------------------------------:
+                        `---._.-------------------------------------------------------------._.---'
 ```
 
 
@@ -246,36 +271,7 @@ print(aakash.get_work_experiences())
 🌙 Night                  30 tasks        ████████░░░░░░░░░░░░░░░░░   30 % 
 ```
 
-```
-             ________________________________________________
-            /                                                \
-           |    _________________________________________     |
-           |   |                                         |    |
-           |   |  $> booting                             |    |
-           |   |  $> ...                                 |    |
-           |   |  $> ......                              |    |
-           |   |  $> ...........                         |    |
-           |   |                                         |    |
-           |   |                                         |    |
-           |   |                                         |    |
-           |   |                                         |    |
-           |   |                                         |    |
-           |   |                                         |    |
-           |   |                                         |    |
-           |   |                                         |    |
-           |   |_________________________________________|    |
-           |                                                  |
-            \_________________________________________________/
-                   \___________________________________/
-                ___________________________________________
-             _-'    .-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.  --- `-_
-          _-'.-.-. .---.-.-.-.-.-.-.-.-.-.-.-.-.-.-.--.  .-.-.`-_
-       _-'.-.-.-. .---.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-`__`. .-.-.-.`-_
-    _-'.-.-.-.-. .-----.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-----. .-.-.-.-.`-_
- _-'.-.-.-.-.-. .---.-. .-------------------------. .-.---. .---.-.-.-.`-_
-:-------------------------------------------------------------------------:
-`---._.-------------------------------------------------------------._.---'
-```
-
-<img src="https://raw.githubusercontent.com/aakashapoorv/aakashapoorv/main/assets/unicorn.gif" align="left" width="50%">
-<img src="https://raw.githubusercontent.com/aakashapoorv/aakashapoorv/main/assets/retro.gif" align="right" width="50%">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aakashapoorv/aakashapoorv/main/assets/unicorn.gif" style="width: 100%; margin-right: 10%;">
+  <img src="https://raw.githubusercontent.com/aakashapoorv/aakashapoorv/main/assets/retro.gif" style="width: 98%; margin-left: 10%;">
+</p>
