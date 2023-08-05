@@ -23,8 +23,10 @@
 
 </div>
 
+Install
+
 ```bash
-brew install aakash
+curl https://raw.githubusercontent.com/aakashapoorv/aakashapoorv/main/aakash.sh | bash
 ```
 
 ```bash
@@ -71,10 +73,9 @@ brew install aakash
 ==> Pouring ffwd--max-magic-marker.bottle.tar.gz
 🍺  Framework was used to make Max & the Magic Marker, published by Electronic Arts and Microsoft Game Studios
 
-==> Running `brew cleanup Aakash Apoorv's CV`...
-Disable this behaviour by setting HOMEBREW_NO_INSTALL_CLEANUP.
-Hide these hints with HOMEBREW_NO_ENV_HINTS (see `man brew`).
-
+==> Running `cleanup Aakash Apoorv's CV`...
+Github: https://github.com/aakashapoorv
+Linkedin: https://www.linkedin.com/in/serverless
 
 ```
 
