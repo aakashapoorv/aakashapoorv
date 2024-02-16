@@ -275,3 +275,23 @@ print(aakash.get_work_experiences())
   <img src="https://raw.githubusercontent.com/aakashapoorv/aakashapoorv/main/assets/unicorn.gif" width="40%" align="left">
   <img src="https://raw.githubusercontent.com/aakashapoorv/aakashapoorv/main/assets/retro.gif" width="40%" align="right">
 </p>
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+## My Sound Design https://github.com/OpenSounds/SoundDesign
+
+https://github.com/OpenSounds/SoundDesign/blob/main/OS_PAD_Dreamscape.fxp
+
+https://github.com/OpenSounds/SoundDesign/assets/5700430/ce5f47a4-a076-4da6-a2d1-8337330a828e
+
+https://github.com/OpenSounds/SoundDesign/blob/main/OS_PLUCK_CelestialEchoes.fxp
+
+https://github.com/OpenSounds/SoundDesign/assets/5700430/2fc4b424-7091-4e72-bf48-659259309111
+
+https://github.com/OpenSounds/SoundDesign/blob/main/OS_BASS_Bassquake.fxp
+
+https://github.com/OpenSounds/SoundDesign/assets/5700430/0238c87a-1769-453d-acd2-c7056cbebf53
+
+https://github.com/OpenSounds/SoundDesign/blob/main/OS_Pluck_NebulaWhisper.fxp
+
+https://github.com/OpenSounds/SoundDesign/assets/5700430/8cf3d571-f204-4f34-9b64-ad2bb6965914
